@@ -1,0 +1,114 @@
+
+* {
+    margin: 0;}
+
+.boyuk-qutu {
+    padding-top: 18wh;
+    display: flex;
+    margin-left: 20%;
+    justify-self: center;
+    padding-top: 10%;
+
+}
+.logo-qutusu{
+    padding-top: 40px;
+    width: 530px;
+    height: 400px;
+}
+.logo{width: 301px;
+    height: 106px;
+
+}
+.logo-alti h2{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    font-weight: lighter;
+    font-size: 32px;
+
+}
+.register-qutu {
+    border: 1px solid #ffffffdb;
+    border-radius: 6px;
+    box-shadow: 3px 3px 15px #80808074;
+    width: 380px;
+    height: 350px;
+    background-color: #fff;
+    text-align: center;
+    margin-left: 150px;
+    
+}
+.email{
+    border: 1px solid #bab4b46d;
+    border-radius: 6px;
+    margin: 10px;
+    padding: 10px;
+    width: 85%;
+    height: 30px;
+    font-size: 17px;
+}
+.password { 
+    border: 1px solid #bab4b46d;
+    border-radius: 6px;
+    margin: 10px;
+    padding: 10px;
+    width: 85%;
+    height: 30px;
+    font-size: 17px;
+}
+#login {
+    height: 50px;
+    width: 90%;
+    padding: 5px;
+    border-radius: 6px;
+    background-color: #1877f2;
+    color: white;
+    border: none;
+    font-weight: bold;
+    font-size: 17px;
+    cursor: pointer;
+}
+hr{
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    margin: 20px 16px;
+    text-align: center;
+    opacity: 30%;
+}
+#cr_acc{
+    height: 50px;
+    width: 50%;
+    padding: 5px;
+    border-radius: 6px;
+    background-color: #42b72a;
+    color: white;
+    border: none;
+    font-weight: bold;
+    font-size: 17px;
+    cursor: pointer; margin-top: 20px;
+}
+    
+    #forgot_password {
+        text-decoration: none;
+        color: #1877f2;
+        font-size: 15px;
+        font-weight: 500;
+        font-family: inherit;
+
+    }
+    #create {
+        text-decoration: none;
+        color: #1c1e21;
+    }
+    #fogot_password :hover 
+    {
+        text-decoration: underline;
+    } 
+    body{
+      background-color: #F0F2F5;
+    }
+    .display {
+        padding-top: 20px;
+        display: flex;
+        border-bottom: 1px solid #dadde1;}
